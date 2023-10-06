@@ -1,0 +1,11 @@
+build:
+ version: "3.0"
+ 
+accounts:
+ message: "Welcome to RockyBank accounts related Local APIs"
+ contactDetails:
+  name: "danger Roy - Developer"
+  email: "ganger@rockyBank.com"
+ onCallSupport:
+  -(888)765-7655
+  -(888)765-7353 

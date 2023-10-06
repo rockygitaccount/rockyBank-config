@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+ 
+accounts:
+ message: "Welcome to RockyBank loans related prod APIs"
+ contactDetails:
+  name: "don Roy - Prod Manager"
+  email: "don@rockyBank.com"
+ onCallSupport:
+  -(987)765-7655
+  -(987)987-9853 

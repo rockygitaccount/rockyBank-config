@@ -1,0 +1,11 @@
+build:
+ version: "2.0"
+ 
+accounts:
+ message: "Welcome to RockyBank cards related qa APIs"
+ contactDetails:
+  name: "joy Roy - QA Lead"
+  email: "joy@rockyBank.com"
+ onCallSupport:
+  -(666)765-7655
+  -(666)987-7353 
