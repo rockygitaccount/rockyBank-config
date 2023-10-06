@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 accounts:
- message: "Welcome to RockyBank cards related prod APIs"
+ message: "Welcome to RockyBank cards related production APIs"
  contactDetails:
   name: "don Roy - Prod Manager"
   email: "don@rockyBank.com"
